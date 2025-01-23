@@ -1,2 +1,5 @@
-# Belajar-Pemograman-Web
-Belajar pemograman web dinamis
+mahir menggunakan OS
+menguasai bahasa pemograman
+menguasai html dan css
+menguasai bahasa pemograman php/js
+Devops
